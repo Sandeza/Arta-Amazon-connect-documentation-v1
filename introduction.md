@@ -32,5 +32,5 @@ The custom contact control panel (CCP) offers interesting features such as:
 - The agent could search for contacts from the dial pad.
 - The agent could change their availability status.
 - The agent could send call logs to support.
-- The incomming and outgoing call time will be displayed.
-- The incomming and outgoing queue name will be displayed.
+- The incoming and outgoing call time will be displayed.
+- The incoming and outgoing queue name will be displayed.
