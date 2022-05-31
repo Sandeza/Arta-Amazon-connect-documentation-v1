@@ -3,9 +3,10 @@
 ## Domain Whitelist
 
 Open the AWS Connect instance setup page and go to `Application integration` tab then whitelist the following domains
+We recommend users to Approve the Updated Version's URL in Amazon Connect and add it to the installation parameters in Freshdesk  
 
-
-> https://d2crcltdyq83bm.cloudfront.net \
+> Old Version  https://freshdeskccp.arta.sandeza.io \
+> Updated Version https://d2crcltdyq83bm.cloudfront.net \
 > https://d3h0owdjgzys62.cloudfront.net \
 > Your freshdesk URL **eg : https://sandeza-support.freshdesk.com**
 
