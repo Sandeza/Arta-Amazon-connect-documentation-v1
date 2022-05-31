@@ -68,7 +68,7 @@ Arta Connector blends Amazon Connect and Freshdesk in a perfect way so both the 
   > **Important** : Include `https://` in beginning and don't include `/` at last as shown below
 
   ```text
-  eg : https://d2crcltdyq83bm.cloudfront.net
+  Cloud Front Url: https://d2crcltdyq83bm.cloudfront.net
   ```
 
   Once you filled all mandotery fields proceed to Install
